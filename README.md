@@ -7,6 +7,21 @@ Software maintenance and support services include long-term and pay-as-you-go, i
 
 We evaluate and recommend appropriate free Off-The-Shelves software/app for startup companies. We train startup company employee how to use of free Off-The-Shelves app. 
 
+### Projects we were hired or volunteered to do:
+1. Build from ground up 
+    1.1 Merced Pharmacy Inventory app
+    1.2 NIA Payrol app (NIA- National Irrigation Administration, Phil)
+    1.3 NIA Communal Irrigation System Project management
+    1.4 Lincoln Trust Company (now LT Trust), original investment and recordkeeping app
+2. Rewrite and/or re-architecture:
+    2.1 FedEx Services customs clearance app
+3. Support and enhance/support
+    3.1 FedEx Return Manager app (Tuxedo app running on Solaris OS)
+    3.2 FedEx Online Label (a WebLogic app)
+    3.3 FedEx Ground Pickup app
+    3.4 FedEx Selct/Im app (runs in AIX os)
+    3.5 etc
+
 [editor on GitHub](https://github.com/fredcpepito/fredcpepito.github.io/edit/master/README.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
