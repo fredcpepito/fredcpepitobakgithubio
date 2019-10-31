@@ -1,6 +1,11 @@
-## Welcome !!!
+## Welcome to Alt Code Projects!!!
+I am a hardware And software maintenance specialist.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hardware maintenance and support services are preventive and remedial services that physically repair or optimize hardware, including contract maintenance and per-incident repair.
+
+Software maintenance and support services include long-term and pay-as-you-go, incident-based, support contracts. Software support contracts include remote troubleshooting and support provided via the telephone and online channels, as well as installation assistance and basic usability assistance. In some cases, software support services may include new product installation services, installation of product updates, migrations for major releases of software and other types of proactive or reactive on-site services. 
+
+We evaluate and recommend appropriate free Off-The-Shelves software/app for startup companies. We train startup company employee how to use of free Off-The-Shelves app. 
 
 [editor on GitHub](https://github.com/fredcpepito/fredcpepito.github.io/edit/master/README.md)
 
