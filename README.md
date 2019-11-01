@@ -1,5 +1,5 @@
 ## Welcome to Alt Code Projects!!!
-I am a hardware And software maintenance specialist.
+I am a hardware and software maintenance engineer.
 
 Hardware maintenance and support services are preventive and remedial services that physically repair or optimize hardware, including contract maintenance and per-incident repair.
 
