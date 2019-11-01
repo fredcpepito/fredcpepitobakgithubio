@@ -15,7 +15,7 @@ We evaluate and recommend appropriate free Off-The-Shelves software/app for star
     1.4 Lincoln Trust Company (now LT Trust), original investment and recordkeeping app
 2. Rewrite and/or re-architecture:
     2.1 FedEx Services customs clearance app
-3. Support and enhance/support
+3. Support and enhance/improve the following:
     3.1 FedEx Return Manager app (Tuxedo app running on Solaris OS)
     3.2 FedEx Online Label (a WebLogic app)
     3.3 FedEx Ground Pickup app
