@@ -10,7 +10,7 @@ We evaluate and recommend appropriate free Off-The-Shelves software/app for star
 ### Projects we were hired or volunteered to do:
 1. Build from ground up 
     - Merced Pharmacy Inventory app
-    - NIA Payrol app (NIA- National Irrigation Administration, Phil)
+    - NIA Payroll app (NIA- National Irrigation Administration, Phil)
     - NIA Communal Irrigation System Project Management
     - Lincoln Trust Company (now LT Trust), original Investment And Recordkeeping app
 2. Rewrite and/or re-architecture:
