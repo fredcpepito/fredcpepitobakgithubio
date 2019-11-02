@@ -22,6 +22,8 @@ We evaluate and recommend appropriate free Off-The-Shelves software/app for star
     - 3.4 FedEx Selct/Im app (runs in AIX os)
     - 3.5 etc
 
+================================================================================
+
 [editor on GitHub](https://github.com/fredcpepito/fredcpepito.github.io/edit/master/README.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
