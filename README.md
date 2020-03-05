@@ -1,9 +1,9 @@
-## Welcome to Alt Code Projects!!!
+## Welcome to AltCode Projects!!!
 I am a software developer and production support engineer.
 
 Software maintenance and support services could be long-term or pay-as-you-go/incident-based support contracts. Software support contracts include remote troubleshooting and support provided via the telephone and online channels, as well as installation assistance and basic usability assistance. In some cases, software support services may include new product installation services, installation of product updates, migrations for major releases of the software and other types of proactive or reactive on-site services. 
 
-We evaluate and recommend appropriate free Off-The-Shelves software/app for startup companies. We train startup company employees on how to use free Off-The-Shelves app. 
+We evaluate and recommend appropriate free Off-The-Shelves software/app for startup companies. We train startup company employees on how to use the free Off-The-Shelves applications. 
 
 ### Projects we were hired to do:
 1. Build from ground up 
@@ -18,11 +18,10 @@ We evaluate and recommend appropriate free Off-The-Shelves software/app for star
     - [FedEx Online Label](https://www.fedex.com/OnlineLabel/) (a WebLogic app)
     - [FedEx Ground Pickup app](https://www.fedex.com/grd/rpp/ShowRPP.do)
     - FedEx Selct/Im app (runs in AIX os)
-    - etc
+    - USN Project/Risk Management app supported by CTA
+    - CTA Security/Vulnerability Scan storage and retrieval/queries app
 
 ================================================================================
-
-[editor on GitHub](https://github.com/fredcpepito/fredcpepito.github.io/edit/master/README.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -30,7 +29,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```markdown hello
+
 Syntax highlighted code block
 
 # Header 1
