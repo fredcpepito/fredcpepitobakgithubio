@@ -3,16 +3,16 @@ I am a hardware and software maintenance engineer.
 
 Hardware maintenance and support services are preventive and remedial services that physically repair or optimize hardware, including contract maintenance and per-incident repair.
 
-Software maintenance and support services include long-term and pay-as-you-go, incident-based, support contracts. Software support contracts include remote troubleshooting and support provided via the telephone and online channels, as well as installation assistance and basic usability assistance. In some cases, software support services may include new product installation services, installation of product updates, migrations for major releases of software and other types of proactive or reactive on-site services. 
+Software maintenance and support services include long-term and pay-as-you-go, incident-based, support contracts. Software support contracts include remote troubleshooting and support provided via the telephone and online channels, as well as installation assistance and basic usability assistance. In some cases, software support services may include new product installation services, installation of product updates, migrations for major releases of the software and other types of proactive or reactive on-site services. 
 
-We evaluate and recommend appropriate free Off-The-Shelves software/app for startup companies. We train startup company employee how to use of free Off-The-Shelves app. 
+We evaluate and recommend appropriate free Off-The-Shelves software/app for startup companies. We train startup company employees on how to use of free Off-The-Shelves app. 
 
 ### Projects we were hired or volunteered to do:
 1. Build from ground up 
     - Merced Pharmacy Inventory app
     - NIA Payroll app (NIA- National Irrigation Administration, Phil)
     - NIA Communal Irrigation System Project Management
-    - Lincoln Trust Company (now LT Trust), original Investment And Recordkeeping app
+    - Lincoln Trust Company, Inc, open/clients/banks 401(k) management app
 2. Rewrite and/or re-architecture:
     - FedEx Services customs clearance app
 3. Support and enhance/improve the following:
