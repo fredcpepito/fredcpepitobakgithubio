@@ -1,20 +1,18 @@
 ## Welcome to Alt Code Projects!!!
-I am a hardware and software maintenance engineer.
+I am a software developer and production support engineer.
 
-Hardware maintenance and support services are preventive and remedial services that physically repair or optimize hardware, including contract maintenance and per-incident repair.
-
-Software maintenance and support services include long-term and pay-as-you-go, incident-based, support contracts. Software support contracts include remote troubleshooting and support provided via the telephone and online channels, as well as installation assistance and basic usability assistance. In some cases, software support services may include new product installation services, installation of product updates, migrations for major releases of the software and other types of proactive or reactive on-site services. 
+Software maintenance and support services could be long-term or pay-as-you-go/incident-based support contracts. Software support contracts include remote troubleshooting and support provided via the telephone and online channels, as well as installation assistance and basic usability assistance. In some cases, software support services may include new product installation services, installation of product updates, migrations for major releases of the software and other types of proactive or reactive on-site services. 
 
 We evaluate and recommend appropriate free Off-The-Shelves software/app for startup companies. We train startup company employees on how to use of free Off-The-Shelves app. 
 
-### Projects we were hired or volunteered to do:
+### Projects we were hired to do:
 1. Build from ground up 
     - Merced Pharmacy Inventory app
-    - NIA Payroll app (NIA- National Irrigation Administration, Phil)
+    - NIA Payroll app [ (NIA- National Irrigation Administration, Phil) ](https://www.nia.gov.ph/)
     - NIA Communal Irrigation System Project Management
-    - Lincoln Trust Company, Inc, open/clients/banks 401(k) management app
+    - [Lincoln Trust Company, Inc](), open/clients/banks 401(k) management app
 2. Rewrite and/or re-architecture:
-    - FedEx Services customs clearance app
+    - FedEx Services [customs clearance app](https://www.fedex.com/en-us/shipping/international/customs-clearance.html) (on Nonstop Pathway framework)
 3. Support and enhance/improve the following:
     - FedEx Return Manager app (Tuxedo app running on Solaris OS)
     - FedEx Online Label (a WebLogic app)
